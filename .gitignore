@@ -82,3 +82,9 @@ android/gradle/
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# cxx
+cpp/tests/.idea/
+cpp/tests/cmake-build-debug/
+cpp/tests/hermes/
+cpp/tests/hermes-debug/
